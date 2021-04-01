@@ -10,7 +10,7 @@ A Custom Discord bot written in TypeScript with a lot of commands for Discord co
 
 [![Add ghostybot](./.github/add-to-discord.png)](https://discord.com/oauth2/authorize?client_id=632843197600759809&scope=bot&permissions=8)
 [![Ghostybot Support server](./.github/join-support-server.png)](https://discord.gg/XxHrtkA)
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SadlyOfficical/ghostybot
 ### Disclaimer (if self-hosted)
 
 You are not allowed to upload this bot to any service such as discordbotlist or top.gg, you are only allowed to host this bot for your community. When self-hosting no support will be provided.
